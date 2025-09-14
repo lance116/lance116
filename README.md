@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+My name is Lance, and I'm a UWaterloo CS student. I love working on startups, and I love building.
+
+## Links:
+<a href="https://www.linkedin.com/in/lance-yan/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
+<a href="mailto:lance.yan.business@gmail.com">Gmail</a> |
+<a href="https://www.lanceyan.tech" target="_blank" rel="noopener noreferrer">Personal website</a>
+
+## Stats:
+![Lance's Stats](https://github-readme-stats.vercel.app/api?username=lance116&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![Lances's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lance116&theme=dark&hide_border=false)
+
 <!--
 **lance116/lance116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
