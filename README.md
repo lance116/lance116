@@ -7,8 +7,6 @@ My name is Lance, and I'm a UWaterloo CS student. I love working on startups, an
 <a href="mailto:lance.yan.business@gmail.com">Gmail</a> |
 <a href="https://www.lanceyan.tech" target="_blank" rel="noopener noreferrer">Personal website</a>
 
-![Lances's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lance116&theme=dark&hide_border=false)
-
 <!--
 **lance116/lance116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
