@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi.
 
-My name is Lance, and I'm a UWaterloo CS student. I love working on startups, and I love building.
+I'm a UWaterloo CS student. I love working on startups, and I love building.
+
+I'm currently building cursor for mortgage brokers.
 
 ## Links:
 <a href="https://www.linkedin.com/in/lance-yan/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
