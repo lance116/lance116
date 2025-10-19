@@ -1,8 +1,8 @@
 ## Hi.
 
-I'm a UWaterloo CS student. I love working on startups, and I love building.
+I'm a UWaterloo CS student. I love building.
 
-I'm currently building in stealth.
+Founder @ Clice (just went public)
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
 
