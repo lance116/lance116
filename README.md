@@ -1,4 +1,4 @@
-## Hey There.
+## Hey there.
 
 I'm Lance, a:
 - UWaterloo CS student.
@@ -10,9 +10,8 @@ I'm Lance, a:
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
 
-Check out my socials!
 
-## Links:
+## Check out my socials:
 <a href="https://x.com/cnnguan" target="_blank" rel="noopener noreferrer">Twitter</a> |
 <a href="https://www.linkedin.com/in/lance-yan/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
 <a href="mailto:lance.yan.business@gmail.com">Email</a> |
