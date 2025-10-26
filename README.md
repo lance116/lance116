@@ -7,11 +7,12 @@ I'm Lance, a:
 - Lead SWE @ wat.ai (UWaterloo's AI organization)
 - Growth @ Symbal, backed by Peter Thiel and Founders Fund
 - Fellow @ Boardy
+  
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
 
 
-## Check out my socials:
+## Socials & contact:
 <a href="https://x.com/cnnguan" target="_blank" rel="noopener noreferrer">Twitter</a> |
 <a href="https://www.linkedin.com/in/lance-yan/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
 <a href="mailto:lance.yan.business@gmail.com">Email</a> |
