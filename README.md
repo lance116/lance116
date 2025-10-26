@@ -1,6 +1,6 @@
-## Hey.
+## Hey There.
 
-I am:
+I'm Lance, a:
 - UWaterloo CS student.
 - Founder @ Clice, backed by angels from Y Combinator, a16z, Soma Capital and Velocity Fund.
 - SWE/Builder @ Kalshi
