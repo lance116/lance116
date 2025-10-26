@@ -1,14 +1,21 @@
-## Hi.
+## Hey.
 
-I'm a UWaterloo CS student. I love building.
-
-Founder @ Clice (just went public)
+I am:
+- UWaterloo CS student.
+- Founder @ Clice, backed by angels from Y Combinator, a16z, Soma Capital and Velocity Fund.
+- SWE/Builder @ Kalshi
+- Lead SWE @ wat.ai (UWaterloo's AI organization)
+- Growth @ Symbal, backed by Peter Thiel and Founders Fund
+- Fellow @ Boardy
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
 
+Check out my socials!
+
 ## Links:
+<a href="https://x.com/cnnguan" target="_blank" rel="noopener noreferrer">Twitter</a> |
 <a href="https://www.linkedin.com/in/lance-yan/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
-<a href="mailto:lance.yan.business@gmail.com">Gmail</a> |
+<a href="mailto:lance.yan.business@gmail.com">Email</a> |
 <a href="https://www.lanceyan.tech" target="_blank" rel="noopener noreferrer">Personal website</a>
 
 <!--
