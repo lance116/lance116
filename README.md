@@ -3,10 +3,10 @@
 I'm Lance, a:
 - UWaterloo CS student.
 - Founder @ Clice, backed by angels from Y Combinator, a16z, Soma Capital and Velocity Fund.
-- SWE/Builder @ Kalshi
-- Lead SWE @ wat.ai (UWaterloo's AI organization)
-- Growth @ Symbal, backed by Peter Thiel and Founders Fund
-- Fellow @ Boardy
+- SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
+- Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI organization)
+- Growth @ <a href="https://www.symbal.ai" target="_blank" rel="noopener noreferrer">Symbal</a>, backed by Peter Thiel and Founders Fund
+- Fellow @ <a href="https://www.boardy.ai" target="_blank" rel="noopener noreferrer">Boardy</a>
   
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
