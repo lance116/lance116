@@ -2,9 +2,10 @@
 
 I'm Lance, a:
 - UWaterloo CS student.
-- Founder @ Clice, backed by angels from <a href="https://www.ycombinator.com" target="_blank" rel="noopener noreferrer">Y Combinator</a>, <a href="https://a16z.com" target="_blank" rel="noopener noreferrer">a16z</a>, <a href="https://somacap.com/featured" target="_blank" rel="noopener noreferrer">Soma Capital</a> and <a href="https://www.velocityincubator.com" target="_blank" rel="noopener noreferrer">Velocity</a>.
+- Co-Founder @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>, backed by angels from <a href="https://www.ycombinator.com" target="_blank" rel="noopener noreferrer">Y Combinator</a>, <a href="https://a16z.com" target="_blank" rel="noopener noreferrer">a16z</a>, <a href="https://somacap.com/featured" target="_blank" rel="noopener noreferrer">Soma Capital</a> and <a href="https://www.velocityincubator.com" target="_blank" rel="noopener noreferrer">Velocity</a>.
 - SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
 - Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI organization)
+Previously:
 - Growth @ <a href="https://www.symbal.ai" target="_blank" rel="noopener noreferrer">Symbal</a>, backed by Peter Thiel and Founders Fund
 - Fellow @ <a href="https://www.boardy.ai" target="_blank" rel="noopener noreferrer">Boardy</a>
   
