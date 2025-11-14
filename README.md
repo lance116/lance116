@@ -16,7 +16,7 @@ Previously:
 
 
 ## Socials & contact:
-<a href="https://x.com/cnnguan" target="_blank" rel="noopener noreferrer">Twitter</a> |
+<a href="https://x.com/lanceyyan" target="_blank" rel="noopener noreferrer">Twitter</a> |
 <a href="https://www.linkedin.com/in/lance-yan/" target="_blank" rel="noopener noreferrer">Linkedin</a> |
 <a href="mailto:lance.yan.business@gmail.com">Email</a> |
 <a href="https://www.lanceyan.tech" target="_blank" rel="noopener noreferrer">Personal website</a>
