@@ -6,6 +6,7 @@ I'm Lance, a:
 - SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
 - Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI organization)
 Previously:
+- Software Engineer Intern @ Burnaby School District & Stealth Startups
 - Growth @ <a href="https://www.symbal.ai" target="_blank" rel="noopener noreferrer">Symbal</a>, backed by Peter Thiel and Founders Fund
 - Fellow @ <a href="https://www.boardy.ai" target="_blank" rel="noopener noreferrer">Boardy</a>
   
