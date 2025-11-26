@@ -1,13 +1,13 @@
 ## Hey there.
 
 I'm Lance, a:
-- UWaterloo CS student.
-- Co-Founder @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>, backed by angels from <a href="https://www.ycombinator.com" target="_blank" rel="noopener noreferrer">Y Combinator</a>, <a href="https://a16z.com" target="_blank" rel="noopener noreferrer">a16z</a>, <a href="https://somacap.com/featured" target="_blank" rel="noopener noreferrer">Soma Capital</a> and <a href="https://www.velocityincubator.com" target="_blank" rel="noopener noreferrer">Velocity</a>.
-- SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
-- Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI organization)
+- Co-Founder & CEO @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>, backed by <a href="https://www.ycombinator.com" target="_blank" rel="noopener noreferrer">Y Combinator</a> and visionaires from <a href="https://a16z.com" target="_blank" rel="noopener noreferrer">a16z</a> and <a href="https://somacap.com/featured" target="_blank" rel="noopener noreferrer">Soma Capital</a>.
   
 Previously:
-- Software Engineer Intern @ Burnaby School District & Stealth Startups
+- UWaterloo CS, I lasted 3 months.
+- SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
+- Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI organization)
+- SWE Intern @ Burnaby School District & Stealth Startups
 - Growth @ <a href="https://www.symbal.ai" target="_blank" rel="noopener noreferrer">Symbal</a>, backed by Peter Thiel and Founders Fund
 - Fellow @ <a href="https://www.boardy.ai" target="_blank" rel="noopener noreferrer">Boardy</a>
   
