@@ -1,6 +1,6 @@
 ## Hey there.
 
-I'm Lance, a:
+I'm Lance:
 - Co-Founder & CEO @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>
   
 Previously:
