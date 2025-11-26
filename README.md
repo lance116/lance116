@@ -1,7 +1,7 @@
 ## Hey there.
 
 I'm Lance, a:
-- Co-Founder & CEO @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>. Backed by <a href="https://www.ycombinator.com" target="_blank" rel="noopener noreferrer">Y Combinator</a> and visionaires from <a href="https://a16z.com" target="_blank" rel="noopener noreferrer">a16z</a> and <a href="https://somacap.com/featured" target="_blank" rel="noopener noreferrer">Soma Capital</a>.
+- Co-Founder & CEO @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>
   
 Previously:
 - UWaterloo CS, I lasted 3 months.
