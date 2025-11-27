@@ -4,7 +4,7 @@ I'm Lance:
 - Co-Founder & CEO @ <a href="https://www.clice.ai" target="_blank" rel="noopener noreferrer">Clice AI</a>
   
 Previously:
-- UWaterloo CS, I lasted 3 months
+- UWaterloo CS
 - SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
 - Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI org)
 - SWE Intern @ Burnaby School District & Stealth Startups
