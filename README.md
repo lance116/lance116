@@ -7,7 +7,7 @@ Previously:
 - UWaterloo CS
 - SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
 - Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI org)
-- SWE Intern @ Stealth startups, SD41
+- SWE Intern @ Various Startups
   
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
