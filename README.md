@@ -4,10 +4,10 @@ I'm Lance:
 - Co-Founder & CEO @ <a href="https://www.traverse.so" target="_blank" rel="noopener noreferrer">Traverse (YC W26)</a>
   
 Previously:
-- UWaterloo CS
-- SWE/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
-- Lead SWE @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI org)
-- SWE Intern @ Various Startups
+- UWaterloo Computer Science
+- Software Engineer/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
+- Lead Machine Learning Engineer @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI org)
+- Software Engineer Intern @ Various Startups
   
 
 ![Views Badge](https://komarev.com/ghpvc/?username=lance116&label=Profile%20views&color=0e75b6&style=flat)
