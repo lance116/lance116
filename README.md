@@ -6,7 +6,7 @@ I'm Lance:
 Previously:
 - UWaterloo Computer Science
 - Software Engineer/Builder @ <a href="https://kalshi.com" target="_blank" rel="noopener noreferrer">Kalshi</a>
-- Founding Engineer @ Stealth Startup
+- Founding Engineer @ Stealth
 - Lead Machine Learning Engineer @ <a href="https://watai.ca" target="_blank" rel="noopener noreferrer">wat.ai</a> (UWaterloo's AI org)
   
 
